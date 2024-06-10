@@ -7,8 +7,6 @@ library(ppcor)
 library(pcalg)
 library(ggdag)      
 library(dagitty)    
-library(discharge)
-library(tseriesChaos)
 
 ## LOAD DATA  
 load("~/emp.RData")  
